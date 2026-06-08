@@ -27,4 +27,4 @@ Roblox Board Widget for Discord
 4. Save and publish
 5. Clone this Repo and run ```node server.js``` fill in ```config.js``` first.
 6. Link the app with your Discord account. The tutorial is on the YouTube video I shared above.
-   
+7. Go to the page [http://localhost:3000](http://localhost:3000/) enter your roblox username and update
