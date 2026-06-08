@@ -10,7 +10,6 @@ Roblox Board Widget for Discord
    Just take the "name" data, the value you fill in is up to you.
 
    For the icon upload itself to the asset check the Asset folder
-   ```json
 | Field | Value |
 |---|---|
 | PROFILE | ![PROFILE](<URL to PROFILE.png>) |
@@ -23,5 +22,5 @@ Roblox Board Widget for Discord
 | GROUP | 11 |
 | FAV | 6 |
 | DATE | 2025 |
-   ```
+
 4. Save and publish
