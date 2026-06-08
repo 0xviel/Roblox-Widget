@@ -117,7 +117,6 @@ async function getRobloxFavoriteGamesCount(userId) {
       cursor = data.nextPageCursor || '';
       page++;
 
-      // Biar tidak loop terlalu panjang
       if (page >= 20) break;
     } while (cursor);
 
