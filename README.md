@@ -10,64 +10,18 @@ Roblox Board Widget for Discord
    Just take the "name" data, the value you fill in is up to you.
 
    For the icon upload itself to the asset check the Asset folder
-   ```js
-{
-  "data": {
-    "dynamic": [
-      {
-        "type": 3,
-        "name": "PROFILE",
-        "value": {
-          "url": "<URL to PROFILE.png>"
-        }
-      },
-      {
-        "type": 1,
-        "name": "USERNAME",
-        "value": "Klama910"
-      },
-      {
-        "type": 1,
-        "name": "NAME",
-        "value": "Re46"
-      },
-      {
-        "type": 1,
-        "name": "DESCRIPTION",
-        "value": "test"
-      },
-      {
-        "type": 1,
-        "name": "FRIENDS",
-        "value": "41"
-      },
-      {
-        "type": 1,
-        "name": "FOLLOWERS",
-        "value": "1"
-      },
-      {
-        "type": 1,
-        "name": "FOLLOWING",
-        "value": "0"
-      },
-      {
-        "type": 1,
-        "name": "GROUP",
-        "value": "11"
-      },
-      {
-        "type": 1,
-        "name": "FAV",
-        "value": "6"
-      },
-      {
-        "type": 1,
-        "name": "DATE",
-        "value": "2025"
-      }
-    ]
-  }
-}
+   ```json
+| Field | Value |
+|---|---|
+| PROFILE | ![PROFILE](<URL to PROFILE.png>) |
+| USERNAME | Klama910 |
+| NAME | Re46 |
+| DESCRIPTION | test |
+| FRIENDS | 41 |
+| FOLLOWERS | 1 |
+| FOLLOWING | 0 |
+| GROUP | 11 |
+| FAV | 6 |
+| DATE | 2025 |
    ```
 4. Save and publish
