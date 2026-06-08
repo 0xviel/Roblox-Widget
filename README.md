@@ -11,7 +11,7 @@ Roblox Board Widget for Discord
 
    For the icon upload itself to the asset check the Asset folder
    ```json
-   {
+{
   "data": {
     "dynamic": [
       {
