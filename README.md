@@ -10,7 +10,7 @@ Roblox Board Widget for Discord
    Just take the "name" data, the value you fill in is up to you.
 
    For the icon upload itself to the asset check the Asset folder
-   ```json
+   ```js
 {
   "data": {
     "dynamic": [
